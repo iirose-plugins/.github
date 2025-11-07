@@ -1,0 +1,2 @@
+# .github
+some koishi plugins
