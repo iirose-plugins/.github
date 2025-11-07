@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+<div style="position: relative; width: 400px; height: 250px; margin: auto;">
+<a href="https://koishi.chat" target="_blank" style="position: absolute; left: 0; z-index: 1;"><img width="250" src="https://github.com/iirose-plugins/koishi-plugin-adapter-iirose/blob/docs/docs/public/assets/icon/koishi.png?raw=true" alt="koishi-logo" style="border-radius: 50%;"></a><a href="https://www.iirose.com" target="_blank" style="position: absolute; right: 0;"><img width="268" src="https://github.com/iirose-plugins/koishi-plugin-adapter-iirose/blob/docs/docs/public/assets/icon/iirose-2.png?raw=true" alt="iirose-logo" style="border-radius: 50%;"></a>
+</div>
